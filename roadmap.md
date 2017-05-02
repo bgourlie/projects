@@ -41,7 +41,7 @@ The major focus of 0.19 will be creating “single-page apps” in Elm. The feat
 
 Once it is possible to create “real” single-page apps thanks to these features, we will also have friendly documentation about how to do it.
 
-> **Note:** It is still too early to say exactly which features will be in the release and how everything will work. Perhaps not all of these features *should* be in the first iteration. Maybe if one is cut, the others can be realesed earlier. That kind of thing. Point is, this list is more about what the major concerns are.
+> **Note:** It is still too early to say exactly which features will be in the release and how everything will work. Perhaps not all of these features *should* be in the first iteration. Maybe if one is cut, the others can be released earlier. That kind of thing. Point is, this list is more about what the major concerns are.
 
 Now some people evaluating Elm may *need* these features for a particular project. Perhaps every millisecond of page load has significant impact on revenue? I recommend measuring things. If your Elm bundle is 30kb gzipped, you may actually be competitive with other options. But imagining that it cannot work for you, it is a totally reasonable choice to hold off on using Elm for now. We will get there, and I hope you circle back after 0.19 and evaluate Elm again. That’s what [Scott is doing](https://twitter.com/scottcorgan/status/857586663261949954)!
 
